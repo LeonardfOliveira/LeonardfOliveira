@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @LeonardfOliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Bem-vindo ao meu Github
+
+- 👀 Estou interessado em desenvolvimento web, machine learning e open source.
+- 🌱 Atualmente estou aprendendo algumas linguagem de programação e outras tecnologias.
+- 💞️ Estou procurando colaborar em projetos open source que envolvam ciência de dados.
+- ⚡ Curiosidade: Gosto de ver filmes, séries, programas, adquirir conhecimento, cultivar plantas, viajar, andar de bicicleta e praticar musculação.
 
 <!---
-LeonardfOliveira/LeonardfOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+@LeonardfOliveira/@LeonardfOliveira é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link de Visualização para ver suas alterações.
 --->
+
